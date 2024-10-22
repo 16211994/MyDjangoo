@@ -1,0 +1,2 @@
+# MyDjangoo
+Django Projects
